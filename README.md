@@ -16,9 +16,9 @@
 ### This is a program for a bookstore that enables the clerk to perform various tasks on the bookstore's database. These tasks include entering data about new books, updating book information, deleting books from the database, and searching to find the availability of books. This project can help a bookstore to manage its inventory efficiently and improve customer service. It can keep track of its inventory accurately and ensure that it has the right books in stock at all times. This can help the bookstore to avoid overstocking or understocking, which can result in lost sales or excess inventory costs. 
 
 ## Installation 
-Clone this repository
-Create a empty folder called data
-Run app.py 
+### Clone this repository
+### Create a empty folder called data
+### Run app.py 
 
 ## Usage
 
